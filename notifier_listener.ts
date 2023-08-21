@@ -24,4 +24,11 @@ const client = new Client({
       }
   });
   
-// {"id":93867,"name":"NETAJI SUBHAS UNIVERSITY OF TECHNOLOGY2","state_id":10,"university_id":3094,"unique_code":"U-1056","created_at":"2021-03-08T19:34:55.367821","updated_at":"2021-03-08T19:34:55.367821","workflow_state":"active"}
+
+// msg.payload
+// {"operation" : "update", "data" : {"id":93995,"name":"Sample College","state_id":34,"university_id":4000,"unique_code":"U-0011","created_at":null,"updated_at":null,"workflow_state":"active"}}
+// msg.payload
+// {"operation" : "delete", "data" : {"id":93995,"name":"Sample College","state_id":34,"university_id":4000,"unique_code":"U-0011","created_at":null,"updated_at":null,"workflow_state":"active"}}
+// msg.payload
+// {"operation" : "insert", "data" : {"id":93996,"name":"Sample College","state_id":3,"university_id":4000,"unique_code":"U-0011","created_at":null,"updated_at":null,"workflow_state":"active"}}
+
