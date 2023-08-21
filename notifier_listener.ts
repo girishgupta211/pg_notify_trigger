@@ -24,3 +24,4 @@ const client = new Client({
       }
   });
   
+// {"id":93867,"name":"NETAJI SUBHAS UNIVERSITY OF TECHNOLOGY2","state_id":10,"university_id":3094,"unique_code":"U-1056","created_at":"2021-03-08T19:34:55.367821","updated_at":"2021-03-08T19:34:55.367821","workflow_state":"active"}
